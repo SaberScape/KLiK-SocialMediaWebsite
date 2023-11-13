@@ -5,7 +5,7 @@ $dBUsername = "root";
 $dBPassword = "eldererajinMenji99";
 $dBName = "klik_database";
 
-$conn = mysqli_connect($serverName, $dBUsername, $dBPassword, $dBName, 3307);
+$conn = mysqli_connect($serverName, root, eldererajinMenji99, $dBName, 3307);
 
 if (!$conn)
 {
